@@ -11,7 +11,7 @@ thank you Kottens for a good experience with GIT
 
 It's my first experience with Linux CLI.
 
-Everything was clear in the first and second vectorinaю.
+Everything was clear in the first and second module
 
-In the third and fourth quiz it was a little unclear, but with experience it will be clearer.
+In the third and fourth module it was a little unclear, but with experience it will be clearer.
 
