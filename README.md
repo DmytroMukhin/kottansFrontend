@@ -30,3 +30,16 @@ In the third and fourth module it was a little unclear, but with experience it w
 Module 3 was familiar to me because I've done a pull request for kottans before. 
 
 Module 4 had many new techniques like squash, code review, continuous integration/continuous delivery, continuous delivery.
+
+
+
+## Intro to HTML and CSS
+
+I enjoyed this course.
+
+In module 1, I repeated my knowledge of HTML, learned how to insert links (section pages, external, internal), learned how to correctly insert images and HTML symbols into a web page.
+
+In Module 2, I learned more about selectors, specifications, pseudo-classes, and grids. Learned about the Bootstrap framework and how to work with it
+
+![image1](task_html_css_intro\css.png)
+![image2](task_html_css_intro\html.png)
