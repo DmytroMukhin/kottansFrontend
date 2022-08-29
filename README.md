@@ -45,3 +45,11 @@ In Module 2, I learned more about selectors, specifications, pseudo-classes, and
 ![image1](task_html_css_intro\css.png)
 ![image2](task_html_css_intro\html.png)
 
+## Responsive Web Design
+
+after completing this course, I learned the rules of responsive design. Learned how to design a site using Flex and Grid. I plan to use more Flex in the future
+
+
+![image1](task_responsive_web_design\flex-froggy.png)
+![image2](task_responsive_web_design\flex.png)
+![image3](task_responsive_web_design\grid-garden.png)
